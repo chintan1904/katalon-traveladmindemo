@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test is to validate Required elements are loaded after successful login.</description>
+   <name>Validate Various elements are loaded on Dashboard page</name>
+   <tag>UI</tag>
+   <comment></comment>
+   <testCaseGuid>cf271db3-27ad-447d-a5b3-129665d12e3b</testCaseGuid>
+</TestCaseEntity>

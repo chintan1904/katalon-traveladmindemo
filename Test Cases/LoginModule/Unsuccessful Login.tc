@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate error messages on Login screen when incorrect credentials are provided.</description>
+   <name>Unsuccessful Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4328810-4b06-401a-8182-94e42bdbd52a</testCaseGuid>
+   <variable>
+      <defaultValue>'admin@phptravels.com'</defaultValue>
+      <description></description>
+      <id>3ff51560-8544-4269-a8d4-9367caf36e48</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'demoadmin1'</defaultValue>
+      <description></description>
+      <id>96010db4-9873-4aeb-a063-1ebb509f6b41</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Incorrect Username or password'</defaultValue>
+      <description></description>
+      <id>8a8a9e97-3dfe-4092-a2e9-76f64e7e214f</id>
+      <masked>false</masked>
+      <name>expectedMessage</name>
+   </variable>
+</TestCaseEntity>

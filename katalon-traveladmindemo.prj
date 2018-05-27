@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>katalon-traveladmindemo</name>
+   <tag></tag>
+   <UUID>020cf7d0-35bd-4b55-8ae1-4d239e792b16</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

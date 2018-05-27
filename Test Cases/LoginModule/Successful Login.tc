@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate user is redirected to Dashboard page on successful Login</description>
+   <name>Successful Login</name>
+   <tag>SMOKE</tag>
+   <comment></comment>
+   <testCaseGuid>30922b92-9644-4861-8002-659e581a023a</testCaseGuid>
+</TestCaseEntity>
