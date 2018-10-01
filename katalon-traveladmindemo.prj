@@ -4,6 +4,21 @@
    <name>katalon-traveladmindemo</name>
    <tag></tag>
    <UUID>020cf7d0-35bd-4b55-8ae1-4d239e792b16</UUID>
-   <migratedVersion>5.4.0</migratedVersion>
+   <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
 </Project>
